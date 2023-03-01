@@ -33,7 +33,9 @@ There are also links to the games that have been released below, so please play 
 
 * <a href="https://risono.github.io/Meteor-project"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/meteoricon84x84.png?raw=true" alt="Meteor" width="20" height="20"> Meteor(Shooter)</a> 
 
-* <a href="https://risono.github.io/PuzzlePanda-project"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/PuzzlePanda84x84.png?raw=true" alt="Meteor" width="20" height="20"> PuzzlePanda(Puzzle)</a>
+* <a href="https://risono.github.io/PuzzlePanda-project"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/PuzzlePanda84x84.png?raw=true" alt="PuzzlePanda" width="20" height="20"> PuzzlePanda(Puzzle)</a>
+
+* <a href="https://risono.github.io/LunaLanding-project"><img src="https://github.com/Risono/LunaLanding-project/blob/main/image/LL_iCon256.png?raw=true" alt="LunaLanding" width="20" height="20"> LunaLanding(Action)</a>
 
 # Link(リンク)
 * <a href="https://twitter.com/daikuya_ri"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/Twitter%20social%20icons%20-%20square%20-%20blue.png?raw=true" alt="Twitter" width="20" height="20">(サポート)</a>   
