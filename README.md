@@ -6,7 +6,7 @@ Please Enjoy!
 
 [ 作者について ] <Br>
 定年退職後に独学でUnityを勉強しながらスマホのゲームを作ってます。<Br>
-下にリリース済のゲームのリンクもありますので、よろしければそちらも遊んで見てください。<Br>
+下にその他のゲームのリンクもありますので、よろしければそちらも遊んで見てください。<Br>
 After retirement, I am making smartphone games while studying Unity on my own.<Br>
 There are also links to the games that have been released below, so please play there if you like.<Br>
   
