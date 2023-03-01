@@ -1,4 +1,4 @@
-# Meteor2
+# Meteor
 [ このゲームについて ] <Br>
 隕石を破壊して惑星を守るシューティングゲームです。<Br>
 A shooting game that destroys meteorites and protects the planet.<Br>
