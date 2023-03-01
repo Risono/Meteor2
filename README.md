@@ -1,13 +1,15 @@
 # Meteor2
 [ このゲームについて ] <Br>
 隕石を破壊して惑星を守るシューティングゲームです。<Br>
-A shooting game that destroys meteorites and protects the planet.
+A shooting game that destroys meteorites and protects the planet.<Br>
 Please Enjoy!
 
 [ 作者について ] <Br>
 定年退職後に独学でUnityを勉強しながらスマホのゲームを作ってます。<Br>
-After retirement, I am making smartphone games while studying Unity on my own.
-
+下にリリース済のゲームのリンクもありますので、よろしければそちらも遊んで見てください。<Br>
+After retirement, I am making smartphone games while studying Unity on my own.<Br>
+There is also a link to the game that has been released below, so please play there if you like.<Br>
+  
 # Privacy Policy
 #### プライバシーポリシー
 
