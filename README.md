@@ -1,5 +1,4 @@
 # Meteor2
-# Welcome to LunaLanding
 [ このゲームについて ] <Br>
 月面着陸ゲームです。
 着陸船をうまく操縦して目標地点に着陸してください。
