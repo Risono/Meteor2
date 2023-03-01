@@ -1,13 +1,7 @@
 # Meteor2
 [ このゲームについて ] <Br>
-月面着陸ゲームです。
-着陸船をうまく操縦して目標地点に着陸してください。
-<a href="https://risono.github.io/Meteor-project"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/meteoricon84x84.png?raw=true" alt="Meteor" width="20" height="20"> Meteor</a>,
-<a href="https://risono.github.io/PuzzlePanda-project"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/PuzzlePanda84x84.png?raw=true" alt="Meteor" width="20" height="20"> PuzzlePand</a>に続く三作目です。
-
-The Landing Game on Moon surface.
-Maneuver the lander well and land at the target point.<Br>
-This is the third work following Meteor and PuzzlePand.
+隕石を破壊して惑星を守るシューティングゲームです。
+A shooting game that destroys meteorites and protects the planet.
 Please Enjoy!
 
 [ 作者について ] <Br>
