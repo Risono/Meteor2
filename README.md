@@ -23,12 +23,15 @@ There are also links to the games that have been released below, so please play 
 本アプリは、Unity Technologies社の広告配信ツールを使用しており、Unity Technologies社が利用者の情報を自動取得する場合があります。 取得する情報、利用目的、第三者への提供等につきましては、広告配信事業者の<a href= "https://unity3d.com/legal/privacy-policy" >プライバシーポリシー</a>よりご確認ください。
 
 # DownLoad (ダウンロード)
-### iPhoneはこちら
+
+### 作成中
+----
+<!--### iPhoneはこちら
 <p style="text-indent:1.7em;"><a href='https://apps.apple.com/us/app/lunalanding/id1619046792'><img src="https://github.com/Risono/risono.github.io/blob/main/image/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg?raw=true" alt="Download on the AppStore" width='126px' height='80px'></a></p> 
 
 ### Androidはこちら
 <p style="text-indent:1em;"><a href='https://play.google.com/store/apps/details?id=com.DefaultCompany.LunaLanding'><img alt='Get it on Google Play' src='https://play.google.com/intl/us-en/badges/static/images/badges/en_badge_web_generic.png' width='148px' height='70px'/></a></p> 
-
+-->
 ### その他のゲーム
 
 * <a href="https://risono.github.io/Meteor-project"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/meteoricon84x84.png?raw=true" alt="Meteor" width="20" height="20"> </a>Meteor(Shooter)</a> 
